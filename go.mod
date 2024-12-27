@@ -1,4 +1,4 @@
-module github.com/jaevor/go-nanoid
+module github.com/sagleft/go-nanoid
 
 go 1.20
 

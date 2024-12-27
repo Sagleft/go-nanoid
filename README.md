@@ -1,22 +1,22 @@
 # **go-nanoid**
 
-[![Build Status](https://github.com/jaevor/go-nanoid/workflows/tests/badge.svg)](https://github.com/jaevor/go-nanoid/actions)
-[![Build Status](https://github.com/jaevor/go-nanoid/workflows/lint/badge.svg)](https://github.com/jaevor/go-nanoid/actions)
-[![GitHub Issues](https://img.shields.io/github/issues/jaevor/go-nanoid.svg)](https://github.com/jaevor/go-nanoid/issues)
-[![Go Version](https://img.shields.io/github/go-mod/go-version/jaevor/go-nanoid?label=Go)](https://github.com/jaevor/go-nanoid/blob/master/go.mod)
-[![Go Ref](https://pkg.go.dev/badge/github.com/jaevor/go-nanoid)](https://pkg.go.dev/github.com/jaevor/go-nanoid)
+[![Build Status](https://github.com/sagleft/go-nanoid/workflows/tests/badge.svg)](https://github.com/sagleft/go-nanoid/actions)
+[![Build Status](https://github.com/sagleft/go-nanoid/workflows/lint/badge.svg)](https://github.com/sagleft/go-nanoid/actions)
+[![GitHub Issues](https://img.shields.io/github/issues/sagleft/go-nanoid.svg)](https://github.com/sagleft/go-nanoid/issues)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/sagleft/go-nanoid?label=Go)](https://github.com/sagleft/go-nanoid/blob/master/go.mod)
+[![Go Ref](https://pkg.go.dev/badge/github.com/sagleft/go-nanoid)](https://pkg.go.dev/github.com/sagleft/go-nanoid)
 
-[This module](https://pkg.go.dev/github.com/jaevor/go-nanoid) is a Go
+[This module](https://pkg.go.dev/github.com/sagleft/go-nanoid) is a Go
 implementation of [ai/nanoid](https://github.com/ai/nanoid).
 
 ```
-go get github.com/jaevor/go-nanoid
+go get github.com/sagleft/go-nanoid
 ```
 
 ```go
 import (
 	"log"
-	"github.com/jaevor/go-nanoid"
+	"github.com/sagleft/go-nanoid"
 )
 
 func main() {
